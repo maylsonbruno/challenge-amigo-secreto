@@ -87,4 +87,3 @@ Sinta-se à vontade para contribuir com melhorias para este projeto! Envie um pu
 
 ---
 
-**Autor:** Seu Nome 
